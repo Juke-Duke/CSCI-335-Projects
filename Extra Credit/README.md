@@ -47,7 +47,7 @@ What we are doing is comparing subsequences of $A$ and $B$ of length $n$ and $m$
 
 ### Sources:
 * [Wikipedia](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
-* CSCI 335 UTA Devin Li
+* [CSCI 335 UTA Devin Li](https://github.com/DLi7077)
 
 ## Matrix Chain Multiplication
 
